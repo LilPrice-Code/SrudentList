@@ -8233,11 +8233,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/student/Free-Lance Codiing/Net/StudentBigList/StudentBigList.csproj",
+      "projectUniqueName": "/home/student/Free-Lance Codiing/Net/StudentList/StudentBigList/StudentBigList.csproj",
       "projectName": "StudentBigList",
-      "projectPath": "/home/student/Free-Lance Codiing/Net/StudentBigList/StudentBigList.csproj",
+      "projectPath": "/home/student/Free-Lance Codiing/Net/StudentList/StudentBigList/StudentBigList.csproj",
       "packagesPath": "/home/student/.nuget/packages/",
-      "outputPath": "/home/student/Free-Lance Codiing/Net/StudentBigList/obj/",
+      "outputPath": "/home/student/Free-Lance Codiing/Net/StudentList/StudentBigList/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/student/.nuget/NuGet/NuGet.Config"
